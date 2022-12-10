@@ -1,0 +1,21 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "compile": "tsc index.ts && node index.js",
+    "day1": "tsc src/day1.ts && node src/day1.js",
+    "day2": "tsc src/day2.ts && node src/day2.js",
+    "day8": "tsc src/day8.ts && node src/day8.js",
+    "day9": "tsc src/day9.ts && node src/day9.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "typescript": "^4.9.3"
+  }
+}
