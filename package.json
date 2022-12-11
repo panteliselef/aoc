@@ -10,6 +10,7 @@
     "day3": "tsc src/day3.ts && node src/day3.js",
     "day8": "tsc src/day8.ts && node src/day8.js",
     "day9": "tsc src/day9.ts && node src/day9.js",
+    "day10": "tsc src/day10.ts && node src/day10.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
